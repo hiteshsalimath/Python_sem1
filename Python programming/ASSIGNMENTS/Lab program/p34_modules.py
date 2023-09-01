@@ -1,0 +1,1 @@
+passtype_name = input("Enter the pass type: ")
